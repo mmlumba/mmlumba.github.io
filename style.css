@@ -1,0 +1,39 @@
+body {
+  background-color: #ffffff;
+}
+
+.something {
+  padding: 20px;
+}
+
+.banner {
+  padding: 20px 0px;
+  text-align: center;
+  background-color: #9a84a338;
+}
+
+h1 {
+  font-family: 'Patua One', cursive;
+  color: #343434;
+}
+
+h2, h3, p {
+  font-family: Arial, sans-serif;
+  color: #343434;
+}
+
+h2 {
+  font-family: 'Patua One', cursive;
+  color: #9A84A3;
+}
+
+.content {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.project-item {
+  background-color: #FFF6DC;
+  width: 400px;
+  height: 200px;
+}
