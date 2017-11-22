@@ -2,14 +2,11 @@ body {
   background-color: #ffffff;
 }
 
-.something {
-  padding: 20px;
-}
-
 .banner {
   padding: 20px 0px;
   text-align: center;
   background-color: #9a84a338;
+  margin-bottom: 20px;
 }
 
 h1 {
@@ -27,8 +24,16 @@ h2 {
   color: #9A84A3;
 }
 
+a {
+  color: #605265;
+  text-decoration: none;
+}
+
 .content {
   background-color: #ffffff;
+  border: 1px solid #BEC1D3;
+  border-radius: 10px;
+  margin-bottom: 20px;
   padding: 20px;
 }
 
