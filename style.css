@@ -1,12 +1,14 @@
 body {
-  background-color: #ffffff;
+  background-color: #fff;
 }
 
 .banner {
   padding: 20px 0px;
   text-align: center;
-  background-color: #9a84a338;
   margin-bottom: 20px;
+  max-height: 150px;
+  border-top: 10px solid #636363;
+  border-bottom: 10px solid #636363;
 }
 
 h1 {
@@ -21,16 +23,25 @@ h2, h3, p {
 
 h2 {
   font-family: 'Patua One', cursive;
+  color: #664075;
+}
+
+h3 {
+  font-family: 'Patua One', cursive;
   color: #9A84A3;
 }
 
 a {
-  color: #605265;
+  color: #85A356;
   text-decoration: none;
 }
 
+a:hover {
+  color: #AAC283;
+}
+
 .content {
-  background-color: #ffffff;
+  background-color: #fff;
   border: 1px solid #BEC1D3;
   border-radius: 10px;
   margin-bottom: 20px;
