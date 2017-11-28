@@ -1,8 +1,12 @@
+/* Background pattern from Subtle Patterns */
+
 body {
   background-color: #fff;
+  background-image: url("images/circles-dark.png");
 }
 
 .banner {
+  background-image: url("images/circles-light.png");
   padding: 20px 0px;
   text-align: center;
   margin-bottom: 20px;
@@ -12,8 +16,10 @@ body {
 }
 
 h1 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Pacifico', cursive;
+  font-size: 40px;
   color: #343434;
+  margin: 5px;
 }
 
 h2, h3, p {
@@ -22,22 +28,22 @@ h2, h3, p {
 }
 
 h2 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', sans-serif;
   color: #664075;
 }
 
 h3 {
-  font-family: 'Patua One', cursive;
+  font-family: 'Patua One', sans-serif;
   color: #9A84A3;
 }
 
 a {
-  color: #85A356;
+  color: #185729;
   text-decoration: none;
 }
 
 a:hover {
-  color: #AAC283;
+  color: #99BEA3;
 }
 
 .content {
