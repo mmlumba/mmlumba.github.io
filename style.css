@@ -1,4 +1,4 @@
-/* Background pattern from Subtle Patterns */
+/* Background pattern from Subtle Patterns: https://www.toptal.com/designers/subtlepatterns/ */
 
 body {
   background-color: #fff;
@@ -15,12 +15,15 @@ body {
   border-bottom: 10px solid #636363;
 }
 
+.banner a {
+  color: #185729;
+}
+
 h1 {
   font-family: 'Pacifico', cursive;
-  font-size: 40px;
+  font-size: 34px;
   color: #343434;
   margin: 5px;
-  font-size: 34px;
 }
 
 h2, h3, p {
@@ -45,7 +48,7 @@ p {
 }
 
 a {
-  color: #185729;
+  color: #478958;
   text-decoration: none;
 }
 
