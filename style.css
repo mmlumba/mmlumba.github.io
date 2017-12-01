@@ -20,6 +20,7 @@ h1 {
   font-size: 40px;
   color: #343434;
   margin: 5px;
+  font-size: 34px;
 }
 
 h2, h3, p {
@@ -30,11 +31,17 @@ h2, h3, p {
 h2 {
   font-family: 'Patua One', sans-serif;
   color: #664075;
+  font-size: 28px;
 }
 
 h3 {
   font-family: 'Patua One', sans-serif;
   color: #9A84A3;
+  font-size: 24px;
+}
+
+p {
+  font-size: 20px;
 }
 
 a {
