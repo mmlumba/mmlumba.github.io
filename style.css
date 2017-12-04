@@ -55,6 +55,11 @@ a:hover {
   color: #99BEA3;
 }
 
+#random-fact {
+  padding-left: 15px;
+  border-left: 3px solid #ccc;
+}
+
 .content {
   background-color: #fff;
   border: 1px solid #BEC1D3;
