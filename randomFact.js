@@ -4,10 +4,10 @@ var Facts = {
   '3': "I studied abroad twice in college: once in Oxford, England for 6 weeks and the other time in Amsterdam for one week.",
   '4': "I still have yet to own a car, but have a drivers' license.",
   '5': "Strength training/powerlifting is my go-to exercise.",
-  '6': "Text editor of choice: Atom",
+  '6': "Text editor of choice: Atom.",
   '7': "My favorite dessert of all time is ice cream.",
   '8': "I spent 7 years singing in middle/high school choir.",
-  '9': "I learned how to ride a bike in my senior year of college.",
+  '9': "I played piano on and off for 10 years, and also own a keyboard in order to try to pick up where I left off.",
   '10': "Swimming class was the only class I ever failed. (Disclaimer: I still know how to swim)."
 }
 var displayFact = document.getElementById("random-fact");
