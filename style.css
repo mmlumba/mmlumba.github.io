@@ -3,6 +3,7 @@
 body {
   background-color: #fff;
   background-image: url("images/circles-dark.png");
+  font-family: Arial, sans-serif;
 }
 
 .banner {
@@ -25,7 +26,7 @@ h1 {
   margin: 5px;
 }
 
-h2, h3, p {
+h2, h3, p, li {
   font-family: Arial, sans-serif;
   color: #343434;
 }
@@ -44,6 +45,10 @@ h3 {
 
 p {
   font-size: 20px;
+}
+
+li {
+  font-size: 16px;
 }
 
 a {
@@ -72,4 +77,20 @@ a:hover {
   background-color: #FFF6DC;
   width: 400px;
   height: 200px;
+}
+
+.skill-column {
+  width: 33%;
+}
+
+.column-left {
+  float: left;
+}
+
+.column-center {
+  display: inline-block;
+}
+
+.column-right {
+  float: right;
 }
