@@ -80,17 +80,15 @@ a:hover {
 }
 
 .skill-column {
-  width: 33%;
+  flex: auto;
 }
 
-.column-left {
-  float: left;
+.skills {
+  display: flex;
 }
 
-.column-center {
-  display: inline-block;
-}
-
-.column-right {
-  float: right;
+@media screen and (max-width: 480px){
+  .skills {
+    flex-direction: column;
+  }
 }
